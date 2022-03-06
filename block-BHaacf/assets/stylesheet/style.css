@@ -248,12 +248,12 @@ h6 {
 .nav-menu-list a:hover{
  color: #ed563a;
 }
+/* hero */
+.hero{
+
+}
 .bg-Video {
   min-width: 100vw;
-  position: relative;
-  left: 0;
-  right: 0;
-  top: 0;
   object-fit: cover;
 }
 .hero-content {
@@ -433,6 +433,11 @@ td {
 .guide {
   text-align: left;
   width: 100%;
+}
+.guide-item{
+  padding: 34px;
+  margin-left: 50px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
 }
 h6 {
   text-transform: capitalize;
